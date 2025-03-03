@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "إضافة زر الاتصال على الهاتف المحمول, وضع ارقام مخصصة للمقالات والصفحات."
+msgstr "Add a call button on mobile, set custom numbers for posts and pages."
+
+msgid "اتصل الآن"
+msgstr "Call Now"
+
+msgid "رقم الهاتف"
+msgstr "Phone Number"
+
+msgid "تفعيل الزر"
+msgstr "Enable Button"
+
+msgid "إلغاء تفعيل الزر"
+msgstr "Disable Button"
+
+msgid "الإعدادات"
+msgstr "Settings"
+
+msgid "إعدادات زر الاتصال"
+msgstr "Call Button Settings"
+
+msgid "الرقم الأساسي"
+msgstr "Primary Phone Number"
+
+msgid "مكان الأزرار"
+msgstr "Button Position"
+
+msgid "نص الزر"
+msgstr "Button Text"
+
+msgid "لون الزر"
+msgstr "Button Color"
+
+msgid "حجم الزر"
+msgstr "Button Size"
+
+msgid "يمين"
+msgstr "Right"
+
+msgid "يسار"
+msgstr "Left"
+
+msgid "صغير"
+msgstr "Small"
+
+msgid "متوسط"
+msgstr "Medium"
+
+msgid "كبير"
+msgstr "Large"
+
+msgid "حفظ الإعدادات"
+msgstr "Save Settings"
+
+msgid "إعادة إلى الوضع الافتراضي"
+msgstr "Reset to Default"
+
+msgid "زر واتساب"
+msgstr "WhatsApp Button"
+
+msgid "زر الاتصال"
+msgstr "Call Button"
+
+msgid "برمجة بواسطة حمدي أبو خضرة"
+msgstr "Plugin developed by Hamdy Abu Khadra"
+
+msgid "الإصدار"
+msgstr "Version"
+
+msgid "حالة الزر"
+msgstr "Button Status"
+
+msgid "مفعل"
+msgstr "Enabled"
+
+msgid "إلغاء التفعيل"
+msgstr "Disabled"
+
+msgid "إعدادات اللون"
+msgstr "Color Settings"
+
+msgid "إرجاع اللون الافتراضي"
+msgstr "Reset Default Color"
+
+msgid "حمدي زر الإتصال"
+msgstr "Hamdy Call Button"
+
+msgid "إعدادات متقدمة"
+msgstr "Advanced Settings"
+
+msgid "مركز"
+msgstr "Center"
+
+msgid "لون النص"
+msgstr "Text Color"
+
+msgid "لون الخلفية"
+msgstr "Background Color"
+
+msgid "تم حفظ الإعدادات بنجاح!"
+msgstr "Settings saved successfully!"
+
+msgid "حدث خطأ أثناء حفظ الإعدادات."
+msgstr "An error occurred while saving settings."
+
+msgid "تأكد من إدخال رقم الهاتف الصحيح."
+msgstr "Make sure to enter the correct phone number."
+
+msgid "زر الاتصال غير مفعل."
+msgstr "Call button is disabled."
+
+msgid "الزر مفعل"
+msgstr "Button is enabled"
+
+msgid "خطأ: لم يتم العثور على الملف."
+msgstr "Error: File not found."
+
+msgid "برمجة بواسطة"
+msgstr "Developed by"
+
+msgid "إعادة ضبط الإعدادات"
+msgstr "Reset Settings"
